@@ -5,7 +5,7 @@
 
 body {
     margin: 0;
-    background-image: url(https://images2.alphacoders.com/823/823422.png);
+    background-image: url(https://i.imgur.com/uTp5Ljz.png);
     background-size: cover;
 }
 
@@ -75,6 +75,7 @@ li a{
     padding: 40px;
     border: 3px rgb(0, 0, 0) solid;
     border-radius: 60px;
+    box-shadow: 3px 3px 4px black;
 }
 
 .box input{
