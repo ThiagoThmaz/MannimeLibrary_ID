@@ -31,13 +31,14 @@ ul{
 }
 
 li a{
+    color: #000000;
     text-decoration: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 
 .header ul li{
-    color: blue;
+    color: rgb(0, 0, 0);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: auto;
     padding: 5px;
